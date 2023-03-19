@@ -2,6 +2,7 @@
 
 
 Salut 👋, j'ai vu ton travail et je suis vraiment impressionné(e) ! Tu as montré une maîtrise impressionnante des notions de back-end avec Node.js 🤯, et j'ai remarqué que tu es allé(e) encore plus loin en comprenant les notions avancées de middleware et de gestion des erreurs 🤓. C'est vraiment génial de voir que tu as une compréhension solide de ces concepts.
+Sans parler de la propreté de ton code et de tes dossiers, factoriser son code c'est la méthodologie des plus grands !
 
 Je suis tellement fier(e) de toi que je pourrais sauter de joie 💃! Mais avant cela, je voudrais te proposer d'aller encore plus loin en apprenant des notions avancées telles que les sockets 🧦, l'authentification et autorisation 🤝 et les tests unitaires 🧪.
 
