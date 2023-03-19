@@ -1,4 +1,4 @@
-**🎉 Retour sur ton travail 🎉**
+# 🎉 Retour sur ton travail 🎉
 
 Hello, j'ai vu que tu avais l'air un peu confus avec l'exercice d'aujourd'hui ! 🤩 Mais je comprends que le MVC puisse sembler un peu intimidant au début... pas de panique ! 😅
 
@@ -21,8 +21,8 @@ Pour maitriser le MVC, voici quelques trucs à ne pas manquer :
 Ensuite, il est important de bien organiser ton code pour qu'il soit facile à lire et à comprendre. 🧐 Utilise des noms de variables clairs, crée des fonctions bien structurées et organise ton code en fonction de sa logique.
 
 👮🏻‍♂️ Ce que tu dois faire: 
-Refais l'étape 0 (Détail d'une carte) après avoir compris la correction. Réussir cett étape de permet d'avoir
-la compréhension des intéractions entre controllers, routes, la view et ta database.
+Refais l'étape 0 (Détail d'une carte) après avoir compris la correction. Réussir cett étape te permets de comprendre
+les intéractions entre controllers, routes, la view et ta database.
 
 Et n'oublie pas, la pratique fait la perfection ! 💪 Plus tu travailles avec le MVC, plus tu deviendras à l'aise avec les concepts et les meilleures pratiques.
 
